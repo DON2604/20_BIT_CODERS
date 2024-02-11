@@ -52,6 +52,6 @@ We extend our sincere gratitude to all contributors and supporters who have play
 
 ## Contact
 
-For further inquiries, support, or collaboration opportunities, please don't hesitate to reach out to us at [swarnavomukherjee03@gmail.com]().
+For further inquiries, support, or collaboration opportunities, please don't hesitate to reach out to us at [swarnavomukherjee03@gmail.com]() [sinhaarnabh888@gmail.com]()  [samdritabhatt163.official@gmail.com]()
 
 Embark on your stock market prediction journey with Stocky! 🚀📊
