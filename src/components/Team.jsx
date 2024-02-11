@@ -1,38 +1,4 @@
-// import React from 'react'
-// import Img1 from '../assets/images/photo.jpeg'
-// import { FaGithubSquare } from 'react-icons/fa'
-// import { BsLinkedin } from 'react-icons/bs'
-// import './Team.css'
-// export const Team = () => {
-//     let message="Lorem ipsum dolor sit amet consectetur adipisicing elit.  voluptate natus quasi saepe nulla voluptas odio?"
-//   return (
-//     <section className='section-white'>
-//         <div className='container'>
-//             <div className="row">
-//                 <div className='col-md-12 text-center'>
-//                     <h2 className='section-title'>
-//                         Meet Our Team
-//                     </h2>
-//                     <p className='section-subtitle'>{message}</p>
-//                 </div>
-//                 <div className='team-member'>
-//                     <div className="team-item">
-//                       <img src={Img1} className='team-img' alt="" height={300} width={300}/>
-//                       <h3>Arnabh Sinha</h3>
-//                       <div className='team-info'>
-//                         <p>Member</p>
-//                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, tenetur explicabo. </p>
-//                         <ul className='team-icon'>
-//                             <li><a href='#' className='github'>
-//                               <FaGithubSquare/>
-//                                 </a></li>
-//                             <li><a href='#' className='linkedin'>
-//                              <BsLinkedin/>
-//                                 </a></li>
-                            
-//                         </ul>
-//                       </div>
-//                     </div>
+
                    
 //                     <div className="team-item">
 //                       <img src={Img1} className='team-img' alt="" height={300} width={300}/>
@@ -216,7 +182,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img3} className='team-img' alt="" height={300} width={300}/>
-                <h3>Mrinmoy Roy </h3>
+                <h3>Mrinmay Das </h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p> </p>
