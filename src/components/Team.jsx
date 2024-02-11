@@ -238,7 +238,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img5} className='team-img' alt="" height={300} width={300}/>
-                <h3>Haimanti </h3>
+                <h3>Haimanti Chakraborty  </h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p> CST A </p>
@@ -282,9 +282,9 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img2} className='team-img' alt="" height={300} width={300}/>
-                <h3>Samadrita Bhattacharya</h3>
+                <h3>SAMADRITA BHATTACHARYA</h3>
                   <div className='team-info'>
-                    <p>Member</p>
+                    <p>Web developer, Java enthusiast, MERN Stack, Nextjs </p>
                       <p> CSIT B </p>
                         <ul className='team-icon'>
                           <li><a href='https://github.com/SamadritaBhattacharya' className='github'>
