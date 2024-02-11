@@ -1,0 +1,19 @@
+
+.heading{
+    color: white;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 700;
+  }
+  .contact{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+   
+  }
