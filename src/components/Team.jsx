@@ -116,7 +116,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img1} className='team-img' alt="" height={300} width={300}/>
-                <h3>Arnabh Sinha</h3>
+                <h3>ARNABH SINHA</h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p> CST B </p>
@@ -138,7 +138,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img4} className='team-img' alt="" height={300} width={300}/>
-                <h3>Swarnavo Mukherjee </h3>
+                <h3>SWARNAVO MUKHERJEE </h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p> CST A </p>
@@ -204,7 +204,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img1} className='team-img' alt="" height={300} width={300}/>
-                <h3>Yuvraj </h3>
+                <h3>YUBARAJ BARUA </h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, tenetur explicabo. </p>
