@@ -160,7 +160,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img3} className='team-img' alt="" height={300} width={300}/>
-                <h3>Mrinmay Das </h3>
+                <h3>MRINMAY DAS </h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p> </p>
@@ -182,7 +182,7 @@ export const Team = () =>{
         <SwiperSlide>
             <div className="team-item">
               <img src={Img5} className='team-img' alt="" height={300} width={300}/>
-                <h3>Haimanti Chakraborty  </h3>
+                <h3>HAIMANTI CHAKRABORTY  </h3>
                   <div className='team-info'>
                     <p>Member</p>
                       <p> CST A </p>
