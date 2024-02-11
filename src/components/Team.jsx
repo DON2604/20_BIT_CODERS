@@ -1,28 +1,6 @@
 
                    
-//                     <div className="team-item">
-//                       <img src={Img1} className='team-img' alt="" height={300} width={300}/>
-//                       <h3>Arnabh Sinha</h3>
-//                       <div className='team-info'>
-//                         <p>Member</p>
-//                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, tenetur explicabo. </p>
-//                         <ul className='team-icon'>
-//                             <li><a href='#' className='github'>
-//                               <FaGithubSquare/>
-//                                 </a></li>
-//                             <li><a href='#' className='linkedin'>
-//                              <BsLinkedin/>
-//                                 </a></li>
-                            
-//                         </ul>
-//                       </div>
-//                     </div>
-//                     <div className="team-item">
-//                       <img src={Img1} className='team-img' alt="" height={300} width={300}/>
-//                       <h3>Arnabh Sinha</h3>
-//                       <div className='team-info'>
-//                         <p>Member</p>
-//                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, tenetur explicabo. </p>
+
 //                         <ul className='team-icon'>
 //                             <li><a href='#' className='github'>
 //                               <FaGithubSquare/>
@@ -190,7 +168,7 @@ export const Team = () =>{
                           <li><a href='#' className='github'>
                             <FaGithubSquare/>
                               </a></li>
-                              <li><a href='#' className='linkedin'>
+                              <li><a href='#' className='liadd nkedin'>
                                 <BsLinkedin/>
                               </a>
                           </li>
