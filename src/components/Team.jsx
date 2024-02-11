@@ -119,7 +119,7 @@ export const Team = () =>{
                 <h3>ARNABH SINHA</h3>
                   <div className='team-info'>
                     <p>Member</p>
-                      <p> CST B </p>
+                      <p> CST B, Wev developer, MERN </p>
                         <ul className='team-icon'>
                           <li><a href='https://github.com/ArnabhS' className='github'>
                             <FaGithubSquare/>
@@ -141,7 +141,7 @@ export const Team = () =>{
                 <h3>SWARNAVO MUKHERJEE </h3>
                   <div className='team-info'>
                     <p>Member</p>
-                      <p> CST A </p>
+                      <p> CST A, Web develeoper, AI/ML enthusiast </p>
                         <ul className='team-icon'>
                           <li><a href='#' className='github'>
                             <FaGithubSquare/>
@@ -163,7 +163,7 @@ export const Team = () =>{
                 <h3>MRINMAY DAS </h3>
                   <div className='team-info'>
                     <p>Member</p>
-                      <p> </p>
+                      <p> CSE-A, Web develeoper, AI/ML enthusiast</p>
                         <ul className='team-icon'>
                           <li><a href='#' className='github'>
                             <FaGithubSquare/>
@@ -228,8 +228,8 @@ export const Team = () =>{
               <img src={Img2} className='team-img' alt="" height={300} width={300}/>
                 <h3>SAMADRITA BHATTACHARYA</h3>
                   <div className='team-info'>
-                    <p>Web developer, Java enthusiast, MERN Stack, Nextjs </p>
-                      <p> CSIT B </p>
+                    <p>Member </p>
+                      <p> CSIT B, Web developer, Java enthusiast, MERN Stack, Nextjs </p>
                         <ul className='team-icon'>
                           <li><a href='https://github.com/SamadritaBhattacharya' className='github'>
                             <FaGithubSquare/>
